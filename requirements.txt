@@ -3,3 +3,5 @@ pandas
 matplotlib
 scikit-learn
 seaborn
+plotly==5.11.0
+nbformat
