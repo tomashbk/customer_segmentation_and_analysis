@@ -2,7 +2,7 @@
 
 This is a project for making customer segmentation through clusterization algorithms and analysis in a dataset from Kaggle (https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis).
 
-Inside `customer_personality_analysis.ipynb` you can find:
+Inside `customer_segmentation_and_analysis.ipynb` you can find:
 
 - EDA.
 - Data Cleaning.
