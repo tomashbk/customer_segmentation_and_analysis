@@ -1,6 +1,6 @@
 # Customer segmentation and analysis
 
-This is a project for making customer segmentation through clusterization algorithms and analysis on a dataset from Kaggle (https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis).
+This is a project for making customer segmentation through clustering algorithms and analysis on a dataset from Kaggle (https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis).
 
 Inside `customer_segmentation_and_analysis.ipynb` you can find:
 
